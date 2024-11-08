@@ -1,0 +1,32 @@
+
+a{
+    text-decoration: none;
+    border: 1px solid;
+    color: black;
+    float:right;
+}
+
+
+#Self-assessment{
+margin: 30px;
+font-size: 22px;
+float: right;
+position: relative;
+top: -290px;
+right: -40px;
+}
+#career-web{
+    margin: 20px;
+}
+#job-shadow{
+    margin: 20px;
+}
+.internship img{
+margin: 50px;
+}
+#intern{
+    margin: 20px;
+}
+#organ{
+    margin: 20px;
+}

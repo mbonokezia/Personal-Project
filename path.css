@@ -1,0 +1,86 @@
+button{
+    text-transform: uppercase;
+    list-style: none;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 24px;
+    position: relative;
+    top: -60px;
+    right: -1000px;  
+}
+a{
+    text-decoration: none;
+    margin: 90px;
+}
+body{
+    background-color: skyblue;
+    width: 90vh;
+}
+
+li a{
+    text-decoration: none;
+    color: #fff;
+}
+h1{
+    margin: 50px;
+}
+.Next a{
+    text-transform: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin: -70px;
+    color: blueviolet;
+}
+#medical h1{
+    padding: 40px;
+    color: blueviolet;
+}
+#medical p{
+    position: absolute;
+    top: 150px;
+
+}
+.Doctor{
+    display: flex;
+}
+#engineering{
+    position: absolute;
+    top: 380px;
+    left: 16px;
+}
+.text{
+    margin: 20px;
+    padding: 10px;
+    color: blueviolet;
+}
+.eng{
+    position: absolute;
+    bottom: 80px;
+}
+#img{
+position: relative;
+top: -60px;
+right: -599px;
+}
+#img img:hover{
+    transform: scale(1.1);
+}
+#img1 img:hover{
+    transform: scale(1.1);
+}
+.hos{
+    position: absolute;
+    top: 100px;
+    left: 580px;
+    margin: 20px;
+    
+}
+.hos img:hover{
+transform: scale(1.1);
+}
+#img1{
+    position: absolute;
+    top: 340px;
+right: 150px;
+}

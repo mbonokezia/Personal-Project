@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(images/backgound1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+
+ .header {
+  display: flex;
+  margin: 20px;
+  padding: 30px  10%;
+  width: 100px;
+  height: 75px;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.navigate ul li {
+    display: inline-block ;
+    padding: 0px 20px;
+    position: relative;
+    right: -400px;
+    font-size: 30px;
+    
+}
+ .navigate li a{ 
+    text-decoration: none;
+    color: rgb(223, 216, 203);
+    
+
+ }
+
+nav ul li a:hover{
+    color: rgb(0, 255, 115);
+    transition: all 0,6secs ease 0%;
+}
+#text{
+    font-size: 30px;
+    color: aliceblue;
+    margin: 30px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    opacity: 50px;     
+}
+.quote{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: aliceblue;
+    margin: 50px;
+    padding: 50px;
+}
+#path{
+    font-weight: 300;
+    font-size: 20px;
+    margin: 500px;
+    margin-top: 90px;
+    color: aliceblue;
+}
